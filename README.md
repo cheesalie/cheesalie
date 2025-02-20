@@ -1,14 +1,12 @@
 ## Hi there, I'm Alina 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-- 🎓 Student of Information Systems & Programming
-- 💻 Programming Languages: Python, JavaScript, TypeScript
-- 🛠 Tech Stack: Django, Starlette, SQL, React Native (with TypeScript)
-- 🔧 Currently working on: A web admin panel using Starlette
-- 📝 Knowledge Management: Using Obsidian as my knowledge base
-- 🤖 Currently learning: Machine Learning
-- 🎨 Frontend Tools: Tailwind CSS, Flyon, and other Tailwind-based component libraries (also comfortable with pure CSS)
-- 🌟 Passionate about: Building efficient, scalable, and user-friendly solutions
-- 📚 Always learning: Exploring new frameworks, tools, and technologies to level up my skills
+####🎓 Student of Information Systems & Programming
+####💻 Programming Languages: Python, JavaScript, TypeScript
+####🛠 Tech Stack: Django, Starlette, SQL, React Native (with TypeScript)
+####🔧 Currently working on: A web admin panel using Starlette
+####📝 Knowledge Management: Using Obsidian as my knowledge base
+####🤖 Currently learning: Machine Learning
+####🎨 Frontend Tools: Tailwind CSS, Flyon, and other Tailwind-based component libraries (also comfortable with pure CSS)
 
 Let’s connect and build something awesome! 🚀
 <!--
