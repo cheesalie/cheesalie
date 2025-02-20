@@ -1,4 +1,5 @@
 ## Hi there, I'm Alina 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 - 🎓 Student of Information Systems & Programming
 - 💻 Programming Languages: Python, JavaScript, TypeScript
 - 🛠 Tech Stack: Django, Starlette, SQL, React Native (with TypeScript)
