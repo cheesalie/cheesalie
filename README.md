@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGM+Nerd+Font&weight=800&pause=1000&color=000000&vCenter=true&repeat=false&width=435&height=20&lines=Hi+there%2C+I'm+Alina+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MesloLGM+Nerd+Font&weight=800&pause=1000&color=0aa3a3&vCenter=true&repeat=false&width=435&height=20&lines=Hi+there%2C+I'm+Alina+%F0%9F%91%8B)](https://git.io/typing-svg)
 #### 🎓 Student of Information Systems & Programming
 #### 💻 Programming Languages: Python, JavaScript, TypeScript
 #### 🛠 Tech Stack: Django, Starlette, SQL, React Native (with TypeScript)
