@@ -60,8 +60,8 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 ### 🔥 GitHub Stats
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheesali&theme=white" alt="cheesali" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesali&layout=compact&langs_count=8&theme=white"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cheesalie&theme=white" alt="cheesalie" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheesalie&layout=compact&langs_count=8&theme=white"/>
 </div>
 
 ---
@@ -69,7 +69,7 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 ### 🏆 GitHub Trophies
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=cheesali&theme=white&no-frame=true&row=1&column=5" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=cheesalie&theme=white&no-frame=true&row=1&column=5" alt="trophy"/>
 </div>
 
 
