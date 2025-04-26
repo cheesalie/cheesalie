@@ -75,7 +75,7 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 
 ---
 
-# Blog posts
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
