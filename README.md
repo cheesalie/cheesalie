@@ -75,6 +75,14 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 
 ---
 
+### :writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 📫 Let’s connect and build something awesome! 🚀
 
 I'm always open to interesting projects and collaborations. Feel free to reach out!
