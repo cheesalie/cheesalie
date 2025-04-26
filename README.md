@@ -75,10 +75,12 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 
 ---
 
-### :writing_hand: Blog Posts :
+## Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
----
+
+More content below...
 
 ### 📫 Let’s connect and build something awesome! 🚀
 
