@@ -12,7 +12,7 @@ I'm a passionate Information Systems & Programming student with expertise in ful
 - 🤖 Currently learning: Machine Learning
 - 🎨 Frontend Tools: Tailwind CSS, Flyon, and other Tailwind-based component libraries (also comfortable with pure CSS)
 
-### :hammer_and_wrench: Languages and Tools :
+<!-- ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
@@ -28,7 +28,8 @@ I'm a passionate Information Systems & Programming student with expertise in ful
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"  title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-</div>
+</div> -->
+
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
